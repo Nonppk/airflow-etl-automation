@@ -5,7 +5,7 @@ A containerized **ETL pipeline** built with **Apache Airflow**, **Docker**, and 
 ## Overview
 This project automates an end-to-end ETL workflow for toll transaction data:
 - Downloads and extracts source datasets (CSV, TSV, fixed-width text).
-- Cleans, merges, and consolidates heterogeneous data formats.
+- Cleans, merges, and consolidates various data formats.
 - Transforms and outputs structured data for analysis.
 
 ## Tech Stack
