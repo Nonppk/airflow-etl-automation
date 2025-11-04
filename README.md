@@ -34,7 +34,7 @@ docker compose up airflow-init
 docker compose up -d
 ```
 Then open **http://localhost:8081**  
-Login with user: `admin` and password: `admin`
+Login with user:(as your setting)
 
 ### 2. Trigger the DAG
 In the Airflow UI, enable and trigger DAG **`etl_toll_data`**.
